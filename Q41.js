@@ -5,3 +5,4 @@ const show_magicians =(arr)=>{
         console.log(element)
     })
 }
+show_magicians(magicians)
